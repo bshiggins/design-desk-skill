@@ -1,5 +1,5 @@
 ---
-name: design-desk
+name: designdesk
 description: "Design intelligence for frontend projects — anti-slop enforcement, motion craft, typography, color, layout, persistent design systems, and multi-stack support. Use when building UI components, pages, or applications. Use when designing, styling, reviewing, auditing, or polishing any frontend code. Triggers on: design, UI, UX, frontend, component, style, theme, color, palette, typography, font, animation, motion, transition, hover, responsive, mobile, accessibility, WCAG, polish, refine, critique, audit, layout, spacing, grid, card, hero, navbar, dashboard, landing page, dark mode, glass, shadow, elevation. Works with React, Next.js, Vue, Nuxt, Svelte, SwiftUI, Flutter, React Native, HTML+Tailwind. Integrates with GSD workflow when .planning/ exists."
 ---
 
